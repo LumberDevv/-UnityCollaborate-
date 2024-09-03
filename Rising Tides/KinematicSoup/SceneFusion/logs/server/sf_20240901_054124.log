@@ -1,0 +1,36 @@
+2024-08-31 22:41:25.0375 [INFO; Root]  KinematicSoup Technologies Inc.
+2024-08-31 22:41:25.0438 [INFO; Root]  Scene Fusion Server 2.0.3asl
+2024-08-31 22:41:25.0789 [DEBUG; Root]  Loading Asset Scripts
+2024-08-31 22:41:25.0804 [DEBUG; Root]  Loading Room Configs
+2024-08-31 22:41:25.0832 [DEBUG; Root]  Loading entity prefabs
+2024-08-31 22:41:25.0833 [DEBUG; Root]  Loading entity instances
+2024-08-31 22:41:25.0838 [DEBUG; Root]  Initializing scripts
+2024-08-31 22:41:25.0951 [INFO; Root]  Loading config.json
+2024-08-31 22:41:25.0953 [INFO; Root]  ProjectId: 1
+2024-08-31 22:41:25.0953 [INFO; Root]  Tier: SF Unity LAN
+2024-08-31 22:41:25.0953 [INFO; Root]  Terrain Editing: True
+2024-08-31 22:41:25.0953 [INFO; Root]  Object Limit: Unlimited
+2024-08-31 22:41:25.1550 [DEBUG; Root]  Room setup complete
+2024-08-31 22:41:25.1557 [INFO;  .⁋]  Starting room 0
+2024-08-31 22:41:25.1558 [INFO; Root]  Sending client updates every 6 frames
+2024-08-31 22:41:25.1559 [INFO; Root]  Setting player limit to 2
+2024-08-31 22:41:25.1560 [INFO; Root]  Opening TCP port 2150
+2024-08-31 22:41:26.4793 [INFO; Root]  Client(id = 1, address = 127.0.0.1:52181) connected
+2024-08-31 22:41:26.4845 [DEBUG; Root]  Client(id = 1, address = 127.0.0.1:52181) model validated
+2024-08-31 22:41:26.5097 [DEBUG; Root]  Client(id = 1, address = 127.0.0.1:52181) authenticated
+2024-08-31 22:41:26.5284 [INFO; KS.SceneFusion2.Server.srAuthenticationManager]  Connection [account = Lumber Devv, address = 127.0.0.1]
+2024-08-31 22:41:26.9662 [DEBUG; KS.SceneFusion2.Server.srObjectManager]  Created 1 object(s).
+Total: 80 B (1), SceneSubscriptions: 41 B (1), String Table: 39 B
+2024-08-31 22:41:26.9688 [DEBUG; KS.SceneFusion2.Server.srObjectManager]  Created 1 object(s).
+Total: 105 B (2), String Table: 48 B, SceneSubscriptions: 41 B (1), SceneLock: 16 B (1)
+2024-08-31 22:41:26.9697 [DEBUG; KS.SceneFusion2.Server.srObjectManager]  Created 1 object(s).
+Total: 362 B (3), Avatar: 174 B (1), String Table: 131 B, SceneSubscriptions: 41 B (1), SceneLock: 16 B (1)
+2024-08-31 22:41:35.4640 [INFO; Root]  Client(id = 1, address = 127.0.0.1:52181) disconnected: 2-End of file
+2024-08-31 22:41:35.4810 [INFO; KS.SceneFusion2.Server.srAuthenticationManager]  Disconnection [account = Lumber Devv, address = 127.0.0.1]
+2024-08-31 22:41:35.4869 [DEBUG; KS.SceneFusion2.Server.srObjectManager]  Deleted 2 object(s).
+Total: 147 B (1), String Table: 131 B, SceneLock: 16 B (1)
+2024-08-31 22:41:35.4891 [INFO; KS.SceneFusion2.Server.srAuthenticationManager]  Shutting down because no users are connected.
+2024-08-31 22:41:35.5416 [INFO;  .⁋]  Stopping room 0
+2024-08-31 22:41:35.5427 [DEBUG; KS.SceneFusion2.Server.srAnalytics]  Sending analytics data...
+2024-08-31 22:41:35.7884 [DEBUG; KS.SceneFusion2.Server.srAnalytics]  Analytics event recorded succesfully.
+2024-08-31 22:41:41.4315 [INFO; Root]  Closing TCP port 2150
