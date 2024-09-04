@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.kinematicsoup.scenefusion2lite": {
-      "version": "file:com.kinematicsoup.scenefusion2lite",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.collab-proxy": {
       "version": "2.4.4",
       "depth": 0,
